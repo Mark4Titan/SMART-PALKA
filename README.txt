@@ -17,3 +17,5 @@ A5 - (R 12 KOm) - (GND)
 D2 - buton
 D13 - (R 400 Om) - DIN
 
+остання прошивка SMART_PALKA_v_2.0_A4
+
